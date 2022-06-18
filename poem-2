@@ -2,3 +2,6 @@ the red sky
 the blue cloud
 the mid high
 the head bowed
+
+hmm earlier when there was just one change in poem branch compared to the main, the remarks during making a pull request were filled automatically
+now that there are two changes, the automation does not work
